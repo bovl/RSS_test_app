@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_background">#3D398D</color>
+    <color name="text_color">#DABECF</color>
+
+    <color name="action_bar_text">#0C161C</color>
+    <color name="actionbar_bground">#CFCFCF</color>
+    <color name="screen_background">#CCCCCC</color>
+
+    <!--RSS list-->
+    <color name="article">#303030</color>
+    <color name="date">#b70400</color>
+    <color name="description">#8d8d8d</color>
+
+</resources>

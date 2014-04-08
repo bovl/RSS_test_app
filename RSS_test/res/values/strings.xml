@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS reader v0.1</string>
+    <string name="rss_list">RSS list</string>
+    <string name="rss_webview">RSS in WebView</string>
+
+</resources>
